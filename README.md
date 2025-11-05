@@ -58,7 +58,7 @@ Each iteration can be built and run independently, allowing you to see the progr
 ### Required Software
 
 - **Qt 6.2 or later** - [Download from Qt.io](https://www.qt.io/download)
-- **CMake 3.16 or later** - [Download from cmake.org](https://cmake.org/download/)
+- **CMake 3.16 or later** - Comes with Qt installation or [Download from cmake.org](https://cmake.org/download/) 
 - **C++ Compiler:**
   - Windows: MSVC 2019 or later, or MinGW
   - Linux: GCC 7.0+ or Clang 5.0+
