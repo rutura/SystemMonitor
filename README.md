@@ -1,10 +1,13 @@
 # System Monitor - A Qt Widgets & C++ Learning Journey
 
-![Complete System Monitor Application](docs/images/system-monitor-complete.png)
 
 ## Overview
 
-This repository contains the complete source code Qt Desktop Applications: Building Real Software with Modern {cpp}. A book that takes you through seven complete iterations, each building upon the last to create production-quality desktop software - a real-time System Monitor application.
+This repository contains the complete source code for **Build a System Monitor with Qt**: Real-Time Cross-Platform Desktop Application Development for Windows, Linux, and macOS. 
+
+A book that takes you through seven complete iterations, each building upon the last to create production-quality desktop software - a real-time System Monitor application.
+
+![Complete System Monitor Application](docs/images/system-monitor-complete.png)
 
 **What you'll monitor:**
 - Real-time CPU usage with historical graphs
